@@ -1,1 +1,1 @@
-body{font:400 1em/1.4 "Helvetica";margin:0;text-rendering:optimizeLegibility}
+body{font:400 1em/1.4 "Helvetica";margin:0;padding:0;text-rendering:optimizeLegibility}.svg,.video{position:absolute;top:0px;right:0px;bottom:0px;left:0px;overflow:hidden}.svg{align-items:center;display:flex;z-index:2}.svg svg{width:100vw}.svg svg path{fill:rgba(0,0,0,0.15)}.video{z-index:1}.video video{min-height:100%;min-width:100%}
